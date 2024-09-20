@@ -1,4 +1,3 @@
-bill = input("How was the service")
+bill = input("How was the service?")
 
-if bill is ("bad"):
     
