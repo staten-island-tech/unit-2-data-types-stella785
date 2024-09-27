@@ -11,7 +11,6 @@ elif service == "good":
 elif service =="great":
     tip_percentage = 25
 
-tip_amount = bill_amount + (tip_percentage/100)
 total_amount = bill_amount + tip_amount
 
 print(f"Tip amount: ${tip_amount:.2f}")
